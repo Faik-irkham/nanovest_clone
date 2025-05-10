@@ -19,6 +19,8 @@ class MyApp extends StatelessWidget {
           backgroundColor: Colors.black,
           foregroundColor: Colors.white,
         ),
+        splashColor: Colors.transparent,
+        highlightColor: Colors.transparent,
         textTheme: GoogleFonts.poppinsTextTheme(
           ThemeData.dark().textTheme,
         ).apply(bodyColor: Colors.white, displayColor: Colors.white),

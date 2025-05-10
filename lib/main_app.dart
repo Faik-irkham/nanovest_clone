@@ -50,6 +50,7 @@ class _MainAppState extends State<MainApp> {
           unselectedFontSize: 12,
           selectedItemColor: Color(0XFF0E68B4),
           unselectedItemColor: Color(0XFF6F6F6F),
+
           items: <BottomNavigationBarItem>[
             BottomNavigationBarItem(
               icon: Padding(
